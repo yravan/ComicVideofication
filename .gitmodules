@@ -1,0 +1,3 @@
+[submodule "comixify"]
+	path = comixify
+	url = https://github.com/maciej3031/comixify.git
